@@ -5,8 +5,12 @@ This is a clone of the Netflix website built using React. It includes the main f
 ## Demo
 
 <!-- Add pictures -->
+<!-- ![alt text](http://url/to/img.png) -->
 
-<img src= > </img>
+![hero image](demo/hero.png)
+![browse image](demo/popular.png)
+![search image](demo/trending.png)
+![trailer image](demo/newRelease.png)
 
 ## Installation
 
